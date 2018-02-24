@@ -6,7 +6,7 @@
 |----------------------------------|
 |[Objectives](#objectives)         |
 |[ActiveRecord](#activerecord)     |
-|[Example](#example)               |
+|[Example](#exampla)               |
 |[Instructions](#instructions)     |
 |[Resources](#resources)           |
 
