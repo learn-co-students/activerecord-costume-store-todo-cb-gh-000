@@ -24,3 +24,11 @@ namespace :db do
     Pry.start
   end
 end
+
+namespace :db do
+  task :drop => :environment do
+    puts "Dropping tables"
+    File.delete('./db/halloween-development.db')
+    drop_db
+  end
+end
